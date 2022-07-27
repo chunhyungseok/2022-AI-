@@ -8,3 +8,7 @@
 7. transformers : 4.13.0
 8. optuna : 2.10.1
 9. lightgbm : ?
+
+# 코드 실행 방법
+
++ 
