@@ -6,4 +6,5 @@
 5. pandas : 1.0.5
 6. tqdm : 4.56.0
 7. transformers : 4.13.0
+8. optuna : 2.10.1
 
