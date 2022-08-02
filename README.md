@@ -10,4 +10,10 @@
 
 # 코드 실행 방법
 
-+ 깃허브 용량 문제로 data폴더에 'train.csv', 'test.csv'를 안 넣어놨음. 추후에 제출할 때 넣어서 제출 
++ Optimization 코드
+  + 맨 위에 코드부터 RUN하시면 됩니다.
+  + Optimization 코드가 포함이 되어 있습니다. (약 6시간 걸림)
+  + 최적화된 parameter 기반 점수 복원 가능한 모델은 test에 있습니다.
+
++ Test 코드
+  + 맨 위 코드부터 RUN하시면 data 폴더에 'XGBoost.csv'파일이 생성됩니다.
