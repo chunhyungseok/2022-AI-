@@ -5,6 +5,7 @@
 + pandas : 1.0.5
 + tqdm : 4.56.0
 + optuna : 2.10.1
++ xgboost : 1.1.1
 
 
 # 코드 실행 방법
