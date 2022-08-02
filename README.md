@@ -1,4 +1,5 @@
 # 환경
++ python : 3.7.13
 + biopython : 1.79
 + numpy : 1.91.1
 + scikit learn : 0.23.1
