@@ -269,8 +269,6 @@ model.fit(
 )
 
 
-# ### → feature 110 (disease_type), feature 109 (disease_state) 가 가장 높은 feature importance를 보인다
-
 # # Inference
 
 # In[39]:
