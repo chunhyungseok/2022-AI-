@@ -15,6 +15,7 @@
   + $ python XGBoost_optimization.py
   + Optimization 코드가 포함이 되어 있습니다. (약 6시간 걸림)
   + 최적화된 parameter 기반 점수 복원 가능한 코드는 'XGBoost_test.py'에 있습니다.
+  + model 폴더에 'XGBoost.pkl'이 생성됩니다.
 
 + XGBoost_test.py
   + $ python XGBoost_test.py
