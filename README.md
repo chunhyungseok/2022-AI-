@@ -21,5 +21,5 @@
 
 + XGBoost_test.py
   + $ python XGBoost_test.py
-  +  코드 (25분 소요)
+  + 추론 코드 (25분 소요)
   + data 폴더에 'XGBoost.csv'파일이 생성됨
