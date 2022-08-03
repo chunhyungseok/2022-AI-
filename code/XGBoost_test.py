@@ -16,11 +16,11 @@ import joblib
 # In[6]:
 
 
-train_path = 'data/train.csv'
-test_path = 'data/test.csv'
-submit_sample_path = 'data/sample_submission.csv'
-submit_path = 'data/XGBoost.csv'
-model_path = 'model/XGBoost_opt.pkl'
+train_path = '../data/train.csv'
+test_path = '../data/test.csv'
+submit_sample_path = '../data/sample_submission.csv'
+submit_path = '../data/XGBoost.csv'
+model_path = '../model/XGBoost_opt.pkl'
 
 
 # In[3]:
