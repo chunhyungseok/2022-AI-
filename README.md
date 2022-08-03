@@ -11,14 +11,15 @@
 
 # 코드 실행 방법
 + Data_processing.py
+  + 전처리 코드
   + 만들고 있음
   
 + XGBoost_train.py
   + $ python XGBoost_train.py
-  + Optimization 코드가 포함이 되어 있습니다. (약 6시간 걸림)
-  + 최적화된 parameter 기반 점수 복원 가능한 코드는 'XGBoost_test.py'에 있습니다.
-  + model 폴더에 'XGBoost.pkl'이 생성됩니다.
+  + train 코드 (약 6시간 소요) 
+  + model 폴더에 'XGBoost.pkl'이 생성
 
 + XGBoost_test.py
   + $ python XGBoost_test.py
-  + data 폴더에 'XGBoost.csv'파일이 생성됩니다.
+  + test 코드 (25분 소요)
+  + data 폴더에 'XGBoost.csv'파일이 생성됨
