@@ -17,7 +17,7 @@
 + XGBoost_train.py
   + $ python XGBoost_train.py
   + 학습 코드 (약 6시간 소요) 
-  + model 폴더에 'XGBoost.pkl'이 생성
+  + model 폴더에 'XGBoost.pkl'이 생성됨
 
 + XGBoost_test.py
   + $ python XGBoost_test.py
