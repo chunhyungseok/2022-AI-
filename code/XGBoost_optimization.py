@@ -310,19 +310,3 @@ print("Best trial:", studyXGB.best_trial.params)
 
 
 # ### Best trial: {'max_depth': 16, 'learning_rate': 0.0025640961747953163, 'n_estimators': 1546, 'subsample': 0.7352711832885261, 'min_child_weight': 1, 'alpha': 0.027937140843060745}
-
-# # Calculating Features Importance 
-
-# In[17]:
-
-
-importances = model.feature_importances_
-
-indices = np.argsort(importances)[::-1]
-
-print("Feature ranking:")
-for f in range(X_train.shape[1]):
-    print("{}. feature {} ({:.3f})".format(f + 1, indices[f], importances[indices[f]]))
-
-
-# ### → feature 110 (disease_type), feature 109 (disease_state) 가 가장 높은 feature importance를 보인다
