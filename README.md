@@ -6,6 +6,7 @@
 + pandas : 1.0.5
 + tqdm : 4.56.0
 + optuna : 2.10.1
++ joblib : 1.0.0
 + xgboost : 1.1.1
 
 
