@@ -11,10 +11,8 @@
 
 # 코드 실행 방법
 + Data_processing.py
-  +  
-
-
-
+  + 만들고 있음
+  
 + XGBoost_train.py
   + $ python XGBoost_train.py
   + Optimization 코드가 포함이 되어 있습니다. (약 6시간 걸림)
