@@ -10,6 +10,10 @@
 
 
 # 코드 실행 방법
++ Data_processing.py
+  +  
+
+
 
 + XGBoost_train.py
   + $ python XGBoost_train.py
