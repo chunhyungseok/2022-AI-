@@ -1,7 +1,7 @@
 # 환경
 + python : 3.7.13
 + biopython : 1.79
-+ numpy : 1.91.1
++ numpy : 1.19.1
 + scikit learn : 0.23.1
 + pandas : 1.0.5
 + tqdm : 4.56.0
