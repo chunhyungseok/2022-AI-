@@ -13,7 +13,6 @@
 # 코드 실행 방법
 + Data_processing.py
   + 전처리 코드
-  + 만들고 있음
   
 + XGBoost_train.py
   + $ python XGBoost_train.py
