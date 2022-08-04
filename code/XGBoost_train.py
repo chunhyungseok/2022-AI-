@@ -23,7 +23,7 @@ import joblib
 
 
 train_path = '../data/train.csv'
-model_path = '../model/XGBoost.pkl'
+model_path = '../model/XGBoost_opt.pkl'
 
 
 # In[3]:
